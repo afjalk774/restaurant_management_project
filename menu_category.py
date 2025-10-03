@@ -47,3 +47,4 @@ urlpatterns = [
     path('api/menu-categories/', MenuCategoryView.as_view(), name='menu-categories'),
     # ... other URL patterns might be in this list.
 ]
+##
